@@ -1,0 +1,32 @@
+main.about {
+    max-width: auto;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+.team ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+body {
+    min-height: 100vh;
+  }
+  
+  
+  /* Style the footer */
+  footer {
+    position: sticky;
+    top: 100%;
+    background-color: #f8f9fa; /* Choose your background color */
+    border-top: 1px solid #dee2e6; /* Add a border on top */
+    padding: 10px 0; /* Add padding to the footer */
+    text-align: center;
+  }
+

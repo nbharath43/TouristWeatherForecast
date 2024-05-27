@@ -1,0 +1,39 @@
+
+/* .footer{
+    position:absolute;
+    bottom:0;
+    } */
+
+  body {
+    min-height: 100vh;
+  }
+  
+  
+  /* Style the footer */
+  footer {
+    position: sticky;
+    top: 100%;
+    background-color: #f8f9fa; /* Choose your background color */
+    border-top: 1px solid #dee2e6; /* Add a border on top */
+    padding: 10px 0; /* Add padding to the footer */
+    text-align: center;
+  }
+
+  #weatherAlerts {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.weather-alert-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Add more styling as needed */
+
+
+  
